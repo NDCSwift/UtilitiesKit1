@@ -10,7 +10,7 @@ This Swift Package contains reusable utility functions and extensions that can b
 - **Swift Package Manager ready** — add it as a dependency in any Xcode project or package
 - **Lightweight and focused** — no bloat, just practical extensions and functions
 
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/watch?v=PLACEHOLDER)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/2Q-iM1MXIbs)
 
 ## 🚀 Getting Started
 1. Clone the repo
